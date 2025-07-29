@@ -1,7 +1,7 @@
 🍽️ *Sistema de Gerenciamento de Restaurante com MySQL*
 Este projeto apresenta um sistema de banco de dados relacional completo, desenvolvido no MySQL Workbench, para a gestão eficiente de um restaurante. Ele foi construído de forma modular, com cada etapa prática focada no desenvolvimento de habilidades essenciais em SQL e modelagem de dados.
 
-🌟 Visão Geral do Projeto
+*🌟 Visão Geral do Projeto*
 O objetivo deste projeto é simular um ambiente de banco de dados para um restaurante, gerenciando informações de funcionários, clientes, produtos, pedidos e detalhes específicos de produtos. Através de uma série de exercícios práticos, foram implementadas as principais funcionalidades de um SGBD, desde a criação do esquema até consultas complexas e otimização, demonstrando uma compreensão aprofundada de MySQL.
 
 🚀 Habilidades Práticas Desenvolvidas
