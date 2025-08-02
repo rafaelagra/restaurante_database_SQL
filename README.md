@@ -69,8 +69,6 @@ info_produtos: Informações adicionais dos produtos, como ingredientes e fornec
 
 pedidos: Registra os pedidos realizados, conectando clientes, funcionários e produtos.
 
-Um diagrama Entidade-Relacionamento (ERD) detalhado, que você pode incluir na pasta docs/ ou diretamente aqui, ilustraria visualmente a estrutura e os relacionamentos do banco de dados.
-
 🤝 Contribuição
 Contribuições são muito bem-vindas! Se você tem ideias para melhorias, novas funcionalidades ou encontrou algum problema, por favor:
 
